@@ -1,0 +1,14 @@
+{
+    "name": "com.teamcitrus.empty-editor-window",
+    "version": "1.0.0",
+    "displayName": "Empty Editor Window",
+    "description": "An empty editor window to block out space for picture in picture content.",
+    "unity": "2018.1",
+    "keywords": [
+        "editor"
+    ],
+	"author": {
+	    "name": "Team Citrus",
+		"email": "david@sigaty.dev"
+	}
+}
